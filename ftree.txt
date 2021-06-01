@@ -1,0 +1,9 @@
+HU-wu-M
+hu1-HU-M
+hu3-hu1-M
+hu11-hu1-M
+hu434-hu11-F
+hu21-hu1-M
+hu32-hu1-M
+hu2-HU-F
+hu33-hu2-F
